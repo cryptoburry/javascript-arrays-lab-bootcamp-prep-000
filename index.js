@@ -26,4 +26,4 @@ function prependKitten(newKitten){
   kittens = [newKitten, ...kittens];
 }
 
-function
+function removeLast
